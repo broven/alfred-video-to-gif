@@ -1,5 +1,4 @@
 # alfred-video-to-gif
-![LOGO](./logo.jpeg)
 ![demo](./demo.gif)
 # Requirement
 - `ffmpeg` is installed, if not try `brew install ffmpeg`
