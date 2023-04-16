@@ -1,0 +1,1 @@
+# alfred-video-to-gif
